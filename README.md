@@ -1,5 +1,5 @@
 Olá! 👋 Bem-vindo ao meu perfil!
-Sou Vinicius Ludke, um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com um histórico de projetos que abrangem áreas diversas, como hardware, sistemas de controle de eficiência, integrações com plataformas cloud e gestão têxtil, me destaco por unir criatividade, performance e entrega de resultados.
+Sou Vinicius Ludke, um desenvolvedor Full Stack apaixonado por tecnologia e inovação. Com um histórico de projetos que abrangem áreas diversas, como hardware, integrações com plataformas cloud e gestão têxtil, me destaco por unir criatividade, performance e entrega de resultados.
 
 Seja desenvolvendo sistemas complexos, otimizando processos ou explorando novas tecnologias, meu objetivo é criar soluções inteligentes que transformem ideias em realidade. 🚀
 
